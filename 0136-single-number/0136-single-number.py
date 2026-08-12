@@ -1,9 +1,10 @@
 class Solution(object):
     def singleNumber(self, nums):
-        seen = set()
+        a=set()
         for i in nums:
-            if i in seen :
-                seen.remove(i)
+            if i not in a:
+                a.add(i)
             else:
-                seen.add(i)
-        return seen.pop()
+                a.remove(i)
+        return a.pop()
+        
