@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
