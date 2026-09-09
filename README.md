@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/AbhisekhPattnaik/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
